@@ -1,0 +1,16 @@
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Hesapla.dll
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Hesapla.pdb
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\TDD_ClassLibrary2.dll
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\TDD_ClassLibrary2.pdb
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\obj\Debug\Hesapla.csprojAssemblyReference.cache
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\obj\Debug\Hesapla.csproj.CoreCompileInputs.cache
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\obj\Debug\Hesapla.csproj.CopyComplete
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\obj\Debug\Hesapla.dll
+C:\Users\Sadik\Desktop\CSharp_TDD_Example-master\Hesapla\obj\Debug\Hesapla.pdb

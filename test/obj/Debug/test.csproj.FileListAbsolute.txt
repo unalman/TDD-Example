@@ -1,0 +1,9 @@
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\bin\Debug\test.dll
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\bin\Debug\test.pdb
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\bin\Debug\nunit.framework.dll
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\bin\Debug\TDD_ClassLibrary2.dll
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\bin\Debug\TDD_ClassLibrary2.pdb
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\bin\Debug\nunit.framework.xml
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\obj\Debug\test.dll
+C:\Users\Furkan\Desktop\sadık\fileupload\TDD_ClassLibrary2\test\obj\Debug\test.pdb
